@@ -1,5 +1,3 @@
-GitHub repo structure based on this, so it's ready for contributors?
-
 # ANSASV: Autonomous Navigation Stack for Autonomous Surface Vehicles
 
 **Description:**  
